@@ -31,10 +31,6 @@ const Score = styled.div`
   font-style: normal;
   cursor: pointer;
 `;
-const Map = styled.div`
-  font-style: normal;
-  cursor: pointer;
-`;
 const Sup = styled.sup`
   font-size: 0.9rem;
   font-weight: 700;
